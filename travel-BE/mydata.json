@@ -1,0 +1,34 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "client": 8,
+    "airport": 1,
+    "flight": 1,
+    "airline": 1,
+    "my-flight": 1
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "client": {
+      "1": "{\"firstname\":\"carlos\",\"lastname\":\"rodriguez\",\"id\":1}",
+      "2": "{\"firstname\":\"N\",\"lastname\":\"L\",\"id\":2}",
+      "3": "{\"firstname\":\"N\",\"lastname\":\"L\",\"id\":3}",
+      "4": "{\"firstname\":\"N\",\"lastname\":\"L\",\"id\":4}",
+      "5": "{\"firstname\":\"N\",\"lastname\":\"L\",\"id\":5}",
+      "6": "{\"firstname\":\"N\",\"lastname\":\"L\",\"id\":6}",
+      "7": "{\"firstname\":\"N\",\"lastname\":\"L\",\"id\":7}"
+    },
+    "airport": {},
+    "flight": {},
+    "airline": {},
+    "my-flight": {}
+  }
+}

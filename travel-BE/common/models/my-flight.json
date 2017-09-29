@@ -1,0 +1,23 @@
+{
+  "name": "my-flight",
+  "plural": "my-flights",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "client_id": {
+      "type": "number",
+      "required": true
+    },
+    "flight_id": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
